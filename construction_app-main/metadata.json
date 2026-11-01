@@ -1,0 +1,6 @@
+{
+  "name": "SiteFlow Kenya - Construction Management System",
+  "description": "SiteFlow construction management application using Supabase Auth, PostgreSQL, private Storage, Realtime and Row Level Security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
